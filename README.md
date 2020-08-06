@@ -4,7 +4,7 @@
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/ML_from_scratch/blob/master/KNN_from_scratch.ipynb)
    
-2. [linear_reg_scratch](https://github.com/bipinKrishnan/ML_from_scratch/blob/master/linear_reg_scratch.ipynb) - Linear regression implemented from scartch using PyTorch
+2. [linear_reg_scratch](https://github.com/bipinKrishnan/ML_from_scratch/blob/master/linear_reg_scratch.ipynb) - Linear regression implemented from scratch using PyTorch
  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/ML_from_scratch/blob/master/linear_reg_scratch.ipynb)
    
