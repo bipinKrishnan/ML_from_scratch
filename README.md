@@ -12,3 +12,8 @@
  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/ML_from_scratch/blob/master/linear_regression_pytorch.ipynb)
    
+4. [fashionMNIST_d2l](https://github.com/bipinKrishnan/ML_from_scratch/blob/master/fashionMNIST_d2l.ipynb) - Softmax regression on fashion MNSIT data set with PyTorch
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/ML_from_scratch/blob/master/fashionMNIST_d2l.ipynb)
+  
+   
