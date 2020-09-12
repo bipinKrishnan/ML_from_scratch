@@ -15,5 +15,10 @@
 4. [fashionMNIST_d2l](https://github.com/bipinKrishnan/ML_from_scratch/blob/master/fashionMNIST_d2l.ipynb) - Softmax regression on fashion MNSIT data set with PyTorch
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/ML_from_scratch/blob/master/fashionMNIST_d2l.ipynb)
+   
+5. [neural_network_pytorch](https://github.com/bipinKrishnan/ML_from_scratch/blob/master/neural_network_pytorch.ipynb) - Implementing simple neural network from scratch with PyTorch
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/ML_from_scratch/blob/master/neural_network_pytorch.ipynb)
+   
   
    
